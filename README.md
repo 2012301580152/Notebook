@@ -1,3 +1,2 @@
-# Introduction
-笔记
+# Initial page
 
