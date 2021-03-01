@@ -1,0 +1,5 @@
+-Dsbt.boot.directory=/Users/gavin/.sbt/boot
+-Dsbt.global.base=~/Users/gavin/.sbt
+-Dsbt.ivy.home=~/Users/gavin/.ivy2
+-Dsbt.repository.config=/Users/gavin/.sbt/repositories
+-Dsbt.repository.secure=false
